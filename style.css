@@ -1,11 +1,35 @@
 body {
-    background-color: rgb( 171, 14, 14 );
+    background-color: rgb(171, 14, 14);
 }
 
 p {
     text-align: center;
 }
 
-em strong{
+em strong {
     color: rgb(18, 52, 163);
+}
+
+principal p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#banner {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
 }
